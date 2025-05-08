@@ -1,0 +1,31 @@
+# === JAVA / SPRING BOOT ===
+target/
+*.class
+*.jar
+*.war
+*.log
+*.iml
+hs_err_pid*
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# === NODE / REACT ===
+node_modules/
+build/
+dist/
+.env
+.env.*.local
+
+# === SISTEMA ===
+.DS_Store
+Thumbs.db
+
+# === VSCODE ===
+.vscode/
+
+# === OTROS ARCHIVOS TEMPORALES ===
+*.swp
+*.swo

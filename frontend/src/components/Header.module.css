@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #0d1117;
+    color: white;
+  }
+  
+  .nav a {
+    margin: 0 1rem;
+    text-decoration: none;
+    color: #58a6ff;
+  }
+  
+  .nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .userSection {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
